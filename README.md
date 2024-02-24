@@ -22,12 +22,9 @@ The calculator allows users to perform basic arithmetic operations such as addit
 
 ## Demo
 
-[Live Demo](#) - (Link to the live demo of the calculator)
+[Live Demo](#) - (https://grapphic.github.io/Calculator/)
 
-## Screenshots
 
-![Calculator Screenshot](/screenshots/oooo.png)
-(Add any relevant screenshots if available)
 
 ## Installation
 
